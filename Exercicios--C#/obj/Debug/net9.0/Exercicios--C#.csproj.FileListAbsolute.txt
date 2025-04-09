@@ -1,0 +1,15 @@
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\bin\Debug\net9.0\Exercicios--C#.exe
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\bin\Debug\net9.0\Exercicios--C#.deps.json
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\bin\Debug\net9.0\Exercicios--C#.runtimeconfig.json
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\bin\Debug\net9.0\Exercicios--C#.dll
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\bin\Debug\net9.0\Exercicios--C#.pdb
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\Exercicios--C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\Exercicios--C#.AssemblyInfoInputs.cache
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\Exercicios--C#.AssemblyInfo.cs
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\Exercicios--C#.csproj.CoreCompileInputs.cache
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\Exercicios--C#.sourcelink.json
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\Exercicios--C#.dll
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\refint\Exercicios--C#.dll
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\Exercicios--C#.pdb
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\Exercicios--C#.genruntimeconfig.cache
+C:\Users\Matheussgoda\Desktop\Aprendizagem\Exercicios--C#\obj\Debug\net9.0\ref\Exercicios--C#.dll
